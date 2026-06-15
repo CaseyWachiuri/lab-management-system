@@ -5,7 +5,7 @@ A Simple Project to experiment with all the basics from python. A lab management
 
 ### Installation Requirements
 ```
-git clone 
+git clone https://github.com/CaseyWachiuri/lab-management-system.git
 ```
 
 ## Technologies used
